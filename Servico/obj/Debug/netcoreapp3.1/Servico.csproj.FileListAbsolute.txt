@@ -1,0 +1,12 @@
+C:\Users\anabr\source\repos\UcdbPedido\Servico\bin\Debug\netcoreapp3.1\Servico.deps.json
+C:\Users\anabr\source\repos\UcdbPedido\Servico\bin\Debug\netcoreapp3.1\Servico.dll
+C:\Users\anabr\source\repos\UcdbPedido\Servico\bin\Debug\netcoreapp3.1\Servico.pdb
+C:\Users\anabr\source\repos\UcdbPedido\Servico\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\anabr\source\repos\UcdbPedido\Servico\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\anabr\source\repos\UcdbPedido\Servico\obj\Debug\netcoreapp3.1\Servico.csprojAssemblyReference.cache
+C:\Users\anabr\source\repos\UcdbPedido\Servico\obj\Debug\netcoreapp3.1\Servico.AssemblyInfoInputs.cache
+C:\Users\anabr\source\repos\UcdbPedido\Servico\obj\Debug\netcoreapp3.1\Servico.AssemblyInfo.cs
+C:\Users\anabr\source\repos\UcdbPedido\Servico\obj\Debug\netcoreapp3.1\Servico.csproj.CoreCompileInputs.cache
+C:\Users\anabr\source\repos\UcdbPedido\Servico\obj\Debug\netcoreapp3.1\Servico.csproj.CopyComplete
+C:\Users\anabr\source\repos\UcdbPedido\Servico\obj\Debug\netcoreapp3.1\Servico.dll
+C:\Users\anabr\source\repos\UcdbPedido\Servico\obj\Debug\netcoreapp3.1\Servico.pdb

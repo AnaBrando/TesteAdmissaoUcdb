@@ -1,0 +1,12 @@
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.deps.json
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfo.cs
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CopyComplete
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\anabr\source\repos\UcdbPedido\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb

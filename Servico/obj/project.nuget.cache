@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NS2dYQJL6vqMaZFyc+pk3bvvnJfd7SyXCva+AKAwNSkx0Gq316OfdyDqjl5Agut0daKNebLaQyiPUok+u9dk2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anabr\\source\\repos\\UcdbPedido\\Servico\\Servico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anabr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

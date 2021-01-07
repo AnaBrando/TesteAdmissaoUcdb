@@ -1,0 +1,14 @@
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\anabr\source\repos\UcdbPedido\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
