@@ -1,6 +1,5 @@
 ﻿using Dominio.Aplicacao;
 using Dominio.DTO;
-using Dominio.Modelo;
 using Dominio.Repositorio;
 using Moq;
 using Newtonsoft.Json;
@@ -19,7 +18,7 @@ namespace TesteUnitario
     {
         private readonly IPedidoService _service;
         private readonly Mock<IPedidoRepositorio> _mock = new Mock<IPedidoRepositorio>();
-    
+
 
         public PedidoTestes()
         {
@@ -37,11 +36,35 @@ namespace TesteUnitario
         public void ObterPedidosVencidos()
         {
             //arrange
-            var pedidos = ObterPedidosMock().Where(x=>x.DataVencimento < DateTime.Now).ToList();
+            var pedidos = ObterPedidosMock().Where(x => x.DataVencimento < DateTime.Now).ToList();
             //action
             var pedidoService = _service.ObterPedidosVencidos();
             //assert
-            Assert.Same(pedidos, pedidoService);
+            Assert.Equal(pedidoService, pedidos);
         }
+        [Fact]
+        public void ObterPedidosQuaseVencidos()
+        {
+
+            //arrange
+            var pedidos = ObterPedidosMock().Where(x => (DateTime.Now.Day - x.DataVencimento.Day) == 3).ToList();
+            //action
+            var pedidoService = _service.ObterPedidosQuaseVencidos();
+            //assert
+            Assert.Equal(pedidoService, pedidos);
+        }
+
+        [Fact]
+        public void ObterPedidosValidos()
+        {
+
+            //arrange
+            var pedidos = ObterPedidosMock().Where(x => (DateTime.Now.Day - x.DataVencimento.Day) > 3).ToList();
+            //action
+            var pedidoService = _service.ObterPedidosValidos();
+            //assert
+            Assert.Equal(pedidoService, pedidos);
+        }
+
     }
 }

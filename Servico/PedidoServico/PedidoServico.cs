@@ -27,12 +27,14 @@ namespace Servico
         }
         public List<PedidoDTO> ObterPedidosQuaseVencidos()
         {
-            throw new NotImplementedException();
+            var pedidos = ObterPedidosMock().Where(x => (DateTime.Now.Day - x.DataVencimento.Day) == 3).ToList();
+            return pedidos;
         }
 
         public List<PedidoDTO> ObterPedidosValidos()
         {
-            throw new NotImplementedException();
+            var pedidos = ObterPedidosMock().Where(x => (DateTime.Now.Day - x.DataVencimento.Day) > 3).ToList();
+            return pedidos;
         }
 
         public List<PedidoDTO> ObterPedidosVencidos()
